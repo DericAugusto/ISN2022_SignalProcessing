@@ -1,0 +1,1 @@
+filtre antirempliment est pas numerique, est apliqué aux signaux continus. C'est porquoi que cet tip de filtre est analogique.

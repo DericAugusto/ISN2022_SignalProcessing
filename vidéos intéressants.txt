@@ -1,0 +1,14 @@
+https://www.youtube.com/results?search_query=differenc+between+transformee+z+lplace+et+fourier
+
+
+What does the Laplace Transform really tell us? A visual explanation (plus applications)
+https://www.youtube.com/watch?v=n2y7n6jw5d0&t=2s
+
+The intuition behind Fourier and Laplace transforms I was never taught in school
+https://www.youtube.com/watch?v=3gjJDuCAEQQ
+
+Relationship between Laplace and Z Transforms : S Plane to Z Plane Mappings
+https://www.youtube.com/watch?v=acQecd6dmxw
+
+Understanding the Z-Transform (and discrete-time Fourier transform, and correlation)
+https://www.youtube.com/watch?v=XJRW6jamUHk
